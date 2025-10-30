@@ -1,5 +1,5 @@
 <h1 align="center">ni hao i'm Aryaman Sharma</h1>
-<h3 align="center">an nothing but everything developer from india</h3>
+<h3 align="center">a nothing but everything developer from india</h3>
 
 - 🔭 Building [Zomakarb AI Solutions](https://www.linkedin.com/company/zomakarb-ai-solutions/)
 
