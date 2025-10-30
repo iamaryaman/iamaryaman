@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aryamansharma2511@gmail.com**
 
-- 📄 Am I a corporate engineer? find out; [https://drive.google.com/file/d/1qN1eN0WnrWXeNrtUFkMvIF75XrCitslm/view?usp=sharing](https://drive.google.com/file/d/1qN1eN0WnrWXeNrtUFkMvIF75XrCitslm/view?usp=sharing)
+- 📄 Am I a corporate engineer? find out; [https://www.linkedin.com/aryaman-sharmaa]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
