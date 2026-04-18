@@ -3,7 +3,7 @@
 
 - 🔭 Building [Zomakarb AI Solutions](https://www.linkedin.com/company/zomakarb-ai-solutions/)
 
-- 🌱 I’m currently learning **Postman, Tensorflow, Javascript**
+- 🌱 I’m currently learning **JVM & Dynamic Compilers, RAG, Tensorflow**
 
 - 📫 How to reach me **aryamansharma2511@gmail.com**
 
