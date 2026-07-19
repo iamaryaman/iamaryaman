@@ -133,6 +133,14 @@
 
 ---
 
+## 🌐 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph – Night Green" width="100%"/>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamaryaman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff" height="165" alt="GitHub Stats"/>
   &nbsp;
